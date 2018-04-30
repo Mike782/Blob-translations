@@ -4,7 +4,7 @@
     <string name="error">Erreur</string>
     <string name="no_internet">Pour jouer, vous devez avoir une connexion Internet</string>
     <string name="show_minimap">Afficher la mini carte</string>
-    <string name="show_chat">Show chat</string>
+    <string name="show_chat">Voir le Chat</string>
     <string name="show_advanced_minimap">Carte avancée</string>
     <string name="region">Région:</string>
     <string name="show_grid">Afficher les grilles</string>
@@ -12,12 +12,12 @@
     <string name="show_names">Afficher les noms</string>
     <string name="name">Nom</string>
 
-    <string name="default_name">Não me coma</string>
+    <string name="default_name">Ne me mange pas</string>
     <string name="play">Jouer</string>
     <string name="nick_name">Votre nom:</string>
     <string name="exit_dialog">Que voulez-vous?</string>
     <string name="exit">Sortie</string>
-    <string name="restart">Reset</string>
+    <string name="restart">Recommencer</string>
     <string name="show_leaders">Montrer les leaders</string>
     <string name="show_skins">Afficher les peaux</string>
     <string name="show_DirectionPointer">Pointer direction</string>
@@ -43,7 +43,7 @@
 
     </string>
 
-    <string name="check_update">Vérifier la mise à niveau</string>
+    <string name="check_update">Vérifier la mise à jour</string>
     <string name="score_result">Votre score %1$s</string>
     <string name="you_set_new_record">Vous avez atteint un nouveau record dans ce mode de jeu!</string>
     <string name="share">Partagez ceci</string>
@@ -61,10 +61,10 @@
     <string name="vibration">Vibration</string>
     <string name="game_mechanic_description">
         &#160;- Plus vous êtes gros, plus vous bougez lentement.\n
-        &#160;- Appuyez sur le bouton correspondant pour séparer en deux petits blobs. La moitié de vous tirer rapidement, utilisez cette astuce pour attaquer les autres joueurs et les manger.\n
-        &#160;- Si vous êtes divisé, vous pouvez vous recombiner en une goutte après un certain laps de temps, plus vos gouttes sont élevées, plus vous devez attendre avant de pouvoir obtenir votre diplôme en une goutte.\n
-        &#160;- Si vous êtes plus petit que les spikeballs, vous pouvez vous cacher à l\'intérieur pour les protéger, mais soyez prudent si vous êtes plus gros qu\'un ballon à épée, puis le toucher vous fait exploser en plusieurs petites gouttes.\n
-        &#160;- Vous pouvez faire des spikeballs à diviser et quelqu\'un, en jetant une partie de leur masse dedans.\n
+        &#160;- Appuyez sur le bouton correspondant pour vous séparer en deux petites boules. La moitié de vous tirer rapidement, utilisez cette astuce pour attaquer les autres joueurs et les manger.\n
+        &#160;- Si vous êtes divisé, vous pouvez vous reformer en une boule après un certain laps de temps, plus vos boules sont élevées, plus vous devez attendre avant de pouvoir vius reformer une boule.\n
+        &#160;- Si vous êtes plus petit que les virus, vous pouvez vous cacher à l\'intérieur pour vous protéger, mais soyez prudent si vous êtes plus gros qu\'un virus, puis le toucher vous fait exploser en plusieurs petites boules.\n
+        &#160;- Vous pouvez faire des virus à diviser sur quelqu\'un, en jetant une partie de votre masse dedans.\n
         &#160;- Vous ne pouvez pas manger ou être mangé par des joueurs de la même taille que vous.\n
         &#160;- Contrôles: Appuyez n\'importe où sur l\'écran pour déplacer votre blob ou utilisez le joystick.\n
         &#160;- Touchez le bouton correspondant pour scinder ou éjecter une certaine masse.\n\n
@@ -136,7 +136,7 @@
     <string name="delete">Supprimé</string>
     <string name="join_game">Connectez-vous au jeu</string>
     <string name="accept">Accepter</string>
-    <string name="decline">Déclin</string>
+    <string name="decline">Décliner</string>
     <string name="copy_ip">Copier IP</string>
 
     <string name="better_skins_quality">Meilleure qualité des peaux</string>
@@ -153,7 +153,7 @@
     <string name="show_friends">Montrer des amis</string>
     <string name="watch">Regarder</string>
     <string name="unknown_user">Joueur non identifié</string>
-    <string name="reset">Reset</string>
+    <string name="reset">Recommencer</string>
 
     <!-- More settings -->
     <string name="more">Plus</string>
@@ -212,7 +212,7 @@
     <string name="key">Clé</string>
     <string name="left_label">(%s left)</string>
     <string name="coins_battle">"Bataille de pièces::"</string>
-    <string name="Spectate">Spectate</string>
+    <string name="Spectate">Regarder</string>
     <string name="game_isnt_started_yet">Le jeu n \ 'est pas encore commencé. Vous risquez de perdre vos pièces de monnaie!</string>
     <string name="show_cell_border">Afficher la bordure de la cellule</string>
     <string name="cur_week_exp">XP hebdomadaire</string>
