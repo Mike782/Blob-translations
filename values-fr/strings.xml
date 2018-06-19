@@ -12,7 +12,7 @@
     <string name="show_names">Afficher les noms</string>
     <string name="name">Nom</string>
 
-    <string name="default_name">Não me coma</string>
+    <string name="default_name">Ne me mange pas</string>
     <string name="play">Jouer</string>
     <string name="nick_name">Votre nom:</string>
     <string name="exit_dialog">Que voulez-vous?</string>
@@ -20,7 +20,7 @@
     <string name="restart">Reset</string>
     <string name="show_leaders">Montrer les leaders</string>
     <string name="show_skins">Afficher les peaux</string>
-    <string name="show_DirectionPointer">Pointer direction</string>
+    <string name="show_DirectionPointer">Direction du pointeur </string>
     <string name="show_joystick">Joystick</string>
     <string name="save_button">Enregistrer</string>
     <string name="settings">Paramètres</string>
@@ -43,7 +43,7 @@
 
     </string>
 
-    <string name="check_update">Vérifier la mise à niveau</string>
+    <string name="check_update">Vérifier la mise à jour</string>
     <string name="score_result">Votre score %1$s</string>
     <string name="you_set_new_record">Vous avez atteint un nouveau record dans ce mode de jeu!</string>
     <string name="share">Partagez ceci</string>
@@ -115,7 +115,7 @@
     <string name="low_graphic">Graphiques bas</string>
     <string name="macros">Macros</string>
     <string name="hello_fake">Vous ne pouvez utiliser ce nom que du niveau 30 :)</string>
-    <string name="get_more">Obtenez devise</string>
+    <string name="get_more">Obtenez plus</string>
     <string name="get_prem_skins_descr">Dans cette version, vous ne pouvez utiliser que les peaux pré-mouches. Si vous voulez acheter, obtenez le jeu sur Amazon</string>
 
 
@@ -123,7 +123,7 @@
     <string name="my_new_friends">Le</string>
     <string name="followers">Supprimé</string>
     <string name="blocked">Bloqué</string>
-    <string name="playing">Jouer:&#160;</string>
+    <string name="playing">Joue:&#160;</string>
     <string name="offline">Hors ligne</string>
     <string name="relations">Relation</string>
     <string name="you_must_log_in">Vous devez vous connecter.</string>
@@ -136,7 +136,7 @@
     <string name="delete">Supprimé</string>
     <string name="join_game">Connectez-vous au jeu</string>
     <string name="accept">Accepter</string>
-    <string name="decline">Déclin</string>
+    <string name="decline">Rejeter</string>
     <string name="copy_ip">Copier IP</string>
 
     <string name="better_skins_quality">Meilleure qualité des peaux</string>
@@ -150,10 +150,10 @@
     <string name="friend_request_successful">Demande d\'ami envoyée!</string>
     <string name="added_new_friend">Nouveau ami ajouté</string>
     <string name="moved_to_declined">Décidé à décliner</string>
-    <string name="show_friends">Montrer des amis</string>
+    <string name="show_friends">Montrer les amis</string>
     <string name="watch">Regarder</string>
     <string name="unknown_user">Joueur non identifié</string>
-    <string name="reset">Reset</string>
+    <string name="reset">Recommencer</string>
 
     <!-- More settings -->
     <string name="more">Plus</string>
@@ -212,7 +212,7 @@
     <string name="key">Clé</string>
     <string name="left_label">(%s left)</string>
     <string name="coins_battle">"Bataille de pièces::"</string>
-    <string name="Spectate">Spectate</string>
+    <string name="Spectate">Spectacle</string>
     <string name="game_isnt_started_yet">Le jeu n \ 'est pas encore commencé. Vous risquez de perdre vos pièces de monnaie!</string>
     <string name="show_cell_border">Afficher la bordure de la cellule</string>
     <string name="cur_week_exp">XP hebdomadaire</string>
